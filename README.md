@@ -8,6 +8,7 @@ This is a FastAPI project designed for Python 3.12.3 or later. Follow the steps 
 
 - **Python**: Version 3.12.3 or later.
 - **Virtual Environment**: For isolating dependencies.
+- **Qdrant**: Required as the vector database for the project.
 
 ---
 
