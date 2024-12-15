@@ -89,4 +89,4 @@ Feel free to submit issues or create pull requests to improve this project.
 
 ---
 
-**Happy Coding!** ✨
+**Happy Coding**
