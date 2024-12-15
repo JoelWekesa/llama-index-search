@@ -1,4 +1,4 @@
-# FastAPI Project
+# Advanced search with llama index
 
 This is a FastAPI project designed for Python 3.12.3 or later. Follow the steps below to set up, configure, and run the project in both development and production modes.
 
