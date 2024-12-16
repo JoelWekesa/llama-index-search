@@ -1,0 +1,17 @@
+
+services:
+  server:
+    build:
+      context: .
+    ports:
+      - 9000:9000
+    env_file:
+      - .env
+    networks:
+      - rag_default
+
+networks:
+  rag_default:
+    external: true
+
+
